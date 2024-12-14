@@ -1,9 +1,4 @@
 ---
-title: 2024-12-08-team40-image-super-resolution
-
----
-
----
 layout: post
 comments: true
 title: 2024-12-08-team40-image-super-resolution
