@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: 2024-12-08-team40-image-super-resolution
-author: UCLAdeepvision
+author: Tony Yu, Arnav Jain,vArash Dewan, Ki Riley
 date: 2024-12-08
 ---
 
