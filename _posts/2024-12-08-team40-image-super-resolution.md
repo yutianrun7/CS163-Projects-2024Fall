@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: 2024-12-08-team40-image-super-resolution
-author: Tony Yu, Arnav Jain, Arash Dewan, Ki Riley
+title: 'Image Super-Resolution: A Brief Overview'
+author: 'Tony Yu, Arnav Jain, Arash Dewan, Ki Riley'
 date: 2024-12-08
 ---
 
